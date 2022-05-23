@@ -1,6 +1,6 @@
-# Maximum Entropy Population Based Training for Zero-Shot Human-AI Coordination
+# Maximum Entropy Population-Based Training for Zero-Shot Human-AI Coordination
 
-This is the code for our paper "Maximum Entropy Population Based Training for Zero-Shot Human-AI Coordination".
+This is the code for our paper "Maximum Entropy Population-Based Training for Zero-Shot Human-AI Coordination".
 
 The current version of the paper is accepted by 2021 NeurIPS (NIPS) Cooperative AI Workshop.  
 
@@ -26,8 +26,8 @@ Citation of the paper:
 
 ```
 @article{zhao2021maximum,
-  title={Maximum Entropy Population Based Training for Zero-Shot Human-AI Coordination},
-  author={Zhao, Rui and Song, Jinming and Haifeng, Hu and Gao, Yang and Wu, Yi and Sun, Zhongqian and Wei, Yang},
+  title={Maximum Entropy Population-Based Training for Zero-Shot Human-AI Coordination},
+  author={Zhao, Rui and Song, Jinming and Yuan, Yufeng and Haifeng, Hu and Gao, Yang and Wu, Yi and Sun, Zhongqian and Wei, Yang},
   journal={arXiv preprint arXiv:2112.11701},
   year={2021}
 }
