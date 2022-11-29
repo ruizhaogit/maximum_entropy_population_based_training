@@ -6,7 +6,7 @@ The current version of the paper is accepted by 2021 NeurIPS (NIPS) Cooperative 
 
 The link of the paper: https://arxiv.org/abs/2112.11701  
 
-The final version of the paper is under review at a conference.  
+The final version of the paper is accepted by AAAI 2023.  
 
 Our code is based on the Overcooked game environment codebase, which is available at https://github.com/HumanCompatibleAI/human_aware_rl/tree/neurips2019. \
 Please follow the installation instructions of the aforementioned link, then merge this codebase to that one.
